@@ -1,0 +1,16 @@
+  body{
+    background-color: orange;
+    margin-top: 60px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+  }
+  #background{
+    background-color: orange;
+  }
+  .black-border{
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 25%;
+  }
