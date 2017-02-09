@@ -8,6 +8,9 @@
 #text{
   text-align: center;
 }
+#left{
+  text-align: left;
+}
   #background{
     background-color: orange;
   }
